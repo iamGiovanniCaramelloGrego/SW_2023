@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\emprest\bin\Debug\net7.0\emprest.exe
+C:\Users\LAB4\Desktop\emprest\bin\Debug\net7.0\emprest.deps.json
+C:\Users\LAB4\Desktop\emprest\bin\Debug\net7.0\emprest.runtimeconfig.json
+C:\Users\LAB4\Desktop\emprest\bin\Debug\net7.0\emprest.dll
+C:\Users\LAB4\Desktop\emprest\bin\Debug\net7.0\emprest.pdb
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.dll
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\refint\emprest.dll
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.pdb
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\emprest.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\emprest\obj\Debug\net7.0\ref\emprest.dll
